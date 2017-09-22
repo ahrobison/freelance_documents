@@ -13,6 +13,8 @@
 	FreelanceDocument.create!(title: "Document #{d}", 
 													description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
 													file_url: "https://docs.google.com/document/d/1alfJzKXdfhLvzbPFp58tzBW70b0TIh5v5so38zu910Y/edit?usp=sharing",
-													image_url: "https://i.pinimg.com/736x/26/31/df/2631df7e202870fe6523ba85b2dcafcf--tropical-forest-tree-tree.jpg",
+													image_url: "https://upload.wikimedia.org/wikipedia/commons/4/4b/Carrowmore_tomb%2C_Ireland.jpg"
 													)
 end
+
+
